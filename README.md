@@ -2,7 +2,7 @@
 
 This repository was created as part of the Technical Skill Test for the Research Assistant position at the Data Driven Computing Lab, IWW.
 
-The detailed steps are documented at: [**RF_Automatic_Flood_Mapping_Workflow.ipynb**](https://github.com/alisurajaya/RF-flood-mapping/blob/main/RF_Automatic_Flood_Mapping_Workflow.ipynb)
+The detailed steps are documented at: [**RF_Automatic_Flood_Mapping_Workflow.ipynb**](https://github.com/alisurajaya/RF-flood-mapping/blob/main/RF_Automatic_Flood_Mapping_Workflow.ipynb) or can be accessed directly at [Google Colab](https://colab.research.google.com/drive/14UdQMEdTHToz3X5b9GqzVN_81I3Rbw0N?usp=sharing)
 
 This notebook designed to be runned in Google Colab with Google Earth Engine cloud project. This workflow provides a simple, step-by-step guide for an automatic workflow to extract flood data. The workflow covers everything from data collection to using a Random Forest model for flood extraction, followed by a damage assessment step. The final results include predictions of flood areas and evaluations of the impacts on populations, agricultural lands, and urban areas. Overal workflow can be illustrated in the Figure below.
 
