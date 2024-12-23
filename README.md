@@ -9,7 +9,7 @@ This notebook designed to be runned in Google Colab with Google Earth Engine clo
 ![workflow](https://github.com/alisurajaya/RF-flood-mapping/blob/main/workflow.jpg)
 
 
-## Contributors
+## Contributor
 
 Ali Surojaya ([LinkedIn](https://www.linkedin.com/in/ali-surojaya-3a25ab135/))
 
